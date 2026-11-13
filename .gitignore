@@ -1,0 +1,14 @@
+# python stuff
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# my vault files - never commit these!!
+vault.dat
+master.hash
+key.key
+*.dat
+*.hash
+*.key
