@@ -1,6 +1,6 @@
 # Password Manager
 
-A desktop password manager I made in Python with Tkinter. It started as my A-level NEA project.
+A desktop password manager I made in Python with Tkinter.
 
 **This is a learning project. It is not production-grade crypto, so please don't use it to store your real passwords.** I wrote my own hash function and XOR encryption so I could understand how they work, not because they're safe. A real app should use tested libraries like `hashlib`/`argon2` and AES (for example `cryptography`'s Fernet).
 
